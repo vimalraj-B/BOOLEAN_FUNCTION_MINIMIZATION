@@ -83,6 +83,12 @@ FUNTION 2:
 ![FUNTION 2 TT](https://github.com/user-attachments/assets/b42a432b-91e2-4ab0-bdbe-72b19694f3ce)
 
 
+```
+Developed by:B.VIMALRAJ.
+
+REGISTER NUMBER:24900283.
+```
+
 **RTL realization**
 
 **Output:**
