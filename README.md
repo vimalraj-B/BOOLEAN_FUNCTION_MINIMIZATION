@@ -66,7 +66,6 @@ FUNTION 2 K-MAP
  endmodule
 
 ```
-**RTL realization**
 
 
 FUNTION 1:
@@ -76,6 +75,7 @@ FUNTION 1:
 ![FUNTION 1 TT](https://github.com/user-attachments/assets/72d8a4da-27ff-4108-888a-a17e0da96691)
 
 
+
 FUNTION 2:
 
 
@@ -83,7 +83,7 @@ FUNTION 2:
 ![FUNTION 2 TT](https://github.com/user-attachments/assets/b42a432b-91e2-4ab0-bdbe-72b19694f3ce)
 
 
-
+**RTL realization**
 
 **Output:**
 
@@ -101,9 +101,25 @@ FUNTION 2:
 
 
 
+![Screenshot 2024-12-05 191718](https://github.com/user-attachments/assets/d4d11eab-4013-4af3-92d1-607e64498333)
+
+
 
 
 **Timing Diagram**
+
+FUNTION 1:
+
+
+![Screenshot 2024-12-05 204243](https://github.com/user-attachments/assets/6a685563-6f36-4aa9-85ee-14672f4960de)
+
+
+FUNTION 2:
+
+
+
+![Screenshot 2024-12-05 204350](https://github.com/user-attachments/assets/90941dca-7de4-4030-b2ae-79d58ca93ac8)
+
 
 **Result:**
 
